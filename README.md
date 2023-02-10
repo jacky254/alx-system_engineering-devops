@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-tough
+0x01-shell_permissions
